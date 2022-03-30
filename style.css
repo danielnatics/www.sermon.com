@@ -1,0 +1,21 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+ul li a:hover{
+    color: blue;
+}
+
+
+div btn{
+    width: 100px;
+    background-color: aquamarine;
+}
